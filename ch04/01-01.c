@@ -1,6 +1,8 @@
-/* 산술 연산
-    +, -, *, /, %를 산술 연산자 (arithmetic operator)라고 함.
+/* 4-1. 계산하리
+    - 산술 연산자, 대입 연산자
+        산술 연산자: +, -, *, /, %를 산술 연산자 (arithmetic operator)라고 함.
 */
+// 산술 연산
 #include <stdio.h>
 
 int main() {

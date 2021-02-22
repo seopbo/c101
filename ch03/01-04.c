@@ -1,4 +1,7 @@
-/* printf 형식 */
+/* 3. 변수가 뭐지?
+    - printf의 또다른 형식
+*/
+// printf 형식
 #include <stdio.h>
 
 int main() {

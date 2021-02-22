@@ -1,11 +1,13 @@
-/* 비트 연산
-    &: and
-    |: or
-    ^: xor
-    ~: reverse
-    <<: left shift
-    >>: right shift
+/* 4-1. 계산하리
+    - 비트 연산자
+        - &: and
+        - |: or
+        - ^: xor
+        - ~: reverse
+        - <<: left shift
+        - >>: right shift
 */
+// 비트 연산
 #include <stdio.h>
 
 int main() {
